@@ -1,6 +1,13 @@
 {
     "1": {
-        "name": "Super Duolingo 1 month",
+        "name": "Canva Business invite link",
+        "points": 3,
+        "stocks": [
+            "https://www.canva.com/brand/join?token=JW8CfzXtc5X2_TKE4vt9RQ&referrer=team-invite"
+        ]
+    },
+    "2": {
+        "name": "Super Duolingo 1 month Code",
         "points": 1,
         "stocks": []
     }

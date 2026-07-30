@@ -1,0 +1,20 @@
+{
+    "users": {
+        "8457000157": {
+            "balance": 0,
+            "referrals": 0,
+            "referred_by": null
+        },
+        "8795896762": {
+            "balance": 0,
+            "referrals": 0,
+            "referred_by": null
+        }
+    },
+    "stock": {
+        "gemini": [],
+        "nordvpn": [],
+        "canva": [],
+        "duolingo": []
+    }
+}
